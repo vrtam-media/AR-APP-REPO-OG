@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4ff04b5ddaf32d46b565854cf780ee3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/_LEGACY_NotSupportedAnymore!/DemoScenes/_DemoScene/Models/Materials/left.mat
+  uploadId: 430890

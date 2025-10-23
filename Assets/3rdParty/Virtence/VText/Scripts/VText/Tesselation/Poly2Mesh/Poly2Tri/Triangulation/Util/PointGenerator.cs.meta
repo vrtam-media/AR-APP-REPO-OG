@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 70cecb808b7044307b74030705de2334
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/Tesselation/Poly2Mesh/Poly2Tri/Triangulation/Util/PointGenerator.cs
+  uploadId: 430890

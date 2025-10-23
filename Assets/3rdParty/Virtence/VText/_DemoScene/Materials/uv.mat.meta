@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31b7b5da74bc1c24bb42dd35ec162e19
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/uv.mat
+  uploadId: 430890

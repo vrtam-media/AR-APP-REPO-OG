@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20bc30a6dbaa4a74b88aebcc2f24c629
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/MeshParameter/ContourVertexAttributes.cs
+  uploadId: 430890

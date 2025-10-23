@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a331c8b3b00744e2860466308cd5850
+timeCreated: 1489420537
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Models/Materials/defaultPolygonShader.mat
+  uploadId: 430890

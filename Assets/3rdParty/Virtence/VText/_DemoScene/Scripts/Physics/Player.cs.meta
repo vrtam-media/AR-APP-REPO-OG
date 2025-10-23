@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e763b36eb3bc440adae5f4ef08a25185
+timeCreated: 1486308187
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Scripts/Physics/Player.cs
+  uploadId: 430890

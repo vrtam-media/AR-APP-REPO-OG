@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4089b1e25199e42b1ac2a7152f22e4a8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Prefabs/SceneLoaderUICanvas.prefab
+  uploadId: 430890

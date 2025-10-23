@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 842049d4d5dfb43618f08119c91d6127
+timeCreated: 1486477236
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/Editor/VTextEditor/VTextEditorLayout.cs
+  uploadId: 430890

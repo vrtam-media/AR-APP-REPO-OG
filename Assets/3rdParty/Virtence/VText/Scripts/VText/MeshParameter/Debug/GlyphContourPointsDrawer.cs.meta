@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: adbb2ad017aad434fafd1c537ee11c83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/MeshParameter/Debug/GlyphContourPointsDrawer.cs
+  uploadId: 430890

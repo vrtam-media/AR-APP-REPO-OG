@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e458cfd3a17ea7846ba4a3a76feb9293
+timeCreated: 1489409050
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Animations/StartScene/TimeTextAnim.anim
+  uploadId: 430890

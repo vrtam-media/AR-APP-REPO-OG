@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 328507bb09a490046ab1259c19dd68c9
+timeCreated: 1489413917
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/PhysicTest/Sun.mat
+  uploadId: 430890

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d75e8f63f2182a4188ad51c590eb29b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/_LEGACY_NotSupportedAnymore!/DemoScenes/_DemoScene/Shader/Chrome.shader
+  uploadId: 430890

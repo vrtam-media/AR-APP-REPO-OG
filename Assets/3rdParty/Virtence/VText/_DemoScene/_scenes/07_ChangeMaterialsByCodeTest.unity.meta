@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9694d040c28834e5e95baa83c3418cfc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/_scenes/07_ChangeMaterialsByCodeTest.unity
+  uploadId: 430890

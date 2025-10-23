@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec3e36de9b044594f8eb447b828d3767
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/_LEGACY_NotSupportedAnymore!/DemoScenes/_DemoScene/Models/Materials/body.mat
+  uploadId: 430890

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb39b6f99907c2142a91954a7795987d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/_LEGACY_NotSupportedAnymore!/DemoScenes/_DemoScene/Materials/V_Texture.mat
+  uploadId: 430890

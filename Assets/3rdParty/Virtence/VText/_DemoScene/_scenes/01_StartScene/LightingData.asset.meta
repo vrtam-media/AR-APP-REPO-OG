@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3af8c4ceb08a9164f9a38c4605469177
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/_scenes/01_StartScene/LightingData.asset
+  uploadId: 430890

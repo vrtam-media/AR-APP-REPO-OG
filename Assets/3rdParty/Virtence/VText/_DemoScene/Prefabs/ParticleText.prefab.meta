@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb56a92c0167f86408d8706787061fcf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Prefabs/ParticleText.prefab
+  uploadId: 430890

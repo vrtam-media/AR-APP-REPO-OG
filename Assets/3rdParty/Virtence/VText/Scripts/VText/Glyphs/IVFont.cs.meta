@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 60278ffd5ac3b9645b0e8234dbe9f69b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/Glyphs/IVFont.cs
+  uploadId: 430890

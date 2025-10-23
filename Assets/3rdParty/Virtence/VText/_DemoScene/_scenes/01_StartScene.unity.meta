@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c900c01137a5b8e449efc341ecdaf91d
+timeCreated: 1489398321
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/_scenes/01_StartScene.unity
+  uploadId: 430890

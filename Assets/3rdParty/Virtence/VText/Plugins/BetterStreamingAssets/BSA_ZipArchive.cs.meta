@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4ae0668083250b649a64c7836ec20f11
+timeCreated: 1506207467
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Plugins/BetterStreamingAssets/BSA_ZipArchive.cs
+  uploadId: 430890

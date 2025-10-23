@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cf6de65dcf68e456bb3ecc2e1ee598c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/Editor/VTextSetup/VTextAutomaticInstaller.cs
+  uploadId: 430890

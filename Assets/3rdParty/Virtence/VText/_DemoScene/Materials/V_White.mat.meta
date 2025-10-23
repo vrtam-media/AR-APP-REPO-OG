@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eba53fac19a44964da62afea3005d239
+timeCreated: 1489396574
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/V_White.mat
+  uploadId: 430890

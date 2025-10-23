@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0d93afffb755d40a4ac875b323d63f5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/Tesselation/Poly2Mesh/Poly2Tri/Utility/FixedBitArray3.cs
+  uploadId: 430890

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 716f92ebea825be4fa36b709ac446e56
+timeCreated: 1489396585
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/V_Black.mat
+  uploadId: 430890

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: be0e9d1e8401bc747b4026efe908b3d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/Modules/VTextAdditionalComponents.cs
+  uploadId: 430890

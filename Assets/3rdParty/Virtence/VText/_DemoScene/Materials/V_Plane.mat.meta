@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23932a073e1a65440976322adf474395
+timeCreated: 1489397109
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/V_Plane.mat
+  uploadId: 430890

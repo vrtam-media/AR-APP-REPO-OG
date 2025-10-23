@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 238bdfe1c92c73447ab93d662b9727ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Scripts/Menu/MenuLineHandler.cs
+  uploadId: 430890

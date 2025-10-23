@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 974fb763bf27bba41be9ac790d7a5867
+timeCreated: 1489393562
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/V_FadeMat.mat
+  uploadId: 430890

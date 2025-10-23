@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 28f19413f43b3734b8130119ded5475f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/_LEGACY_NotSupportedAnymore!/Scripts/Editor/VTextInterfaceToVTextConverter.cs
+  uploadId: 430890

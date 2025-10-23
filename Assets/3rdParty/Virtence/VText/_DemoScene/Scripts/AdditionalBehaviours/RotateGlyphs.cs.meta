@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2c8903b22819f441f99ae841a6dc5970
+timeCreated: 1486201061
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Scripts/AdditionalBehaviours/RotateGlyphs.cs
+  uploadId: 430890

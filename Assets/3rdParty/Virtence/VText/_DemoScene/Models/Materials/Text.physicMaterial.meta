@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c980796a43a8b0479136cd85ed98726
+timeCreated: 1489416484
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Models/Materials/Text.physicMaterial
+  uploadId: 430890

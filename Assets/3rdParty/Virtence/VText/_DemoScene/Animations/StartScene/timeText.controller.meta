@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ee84dabee78edcf4194acd3fbf1d829c
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Animations/StartScene/timeText.controller
+  uploadId: 430890

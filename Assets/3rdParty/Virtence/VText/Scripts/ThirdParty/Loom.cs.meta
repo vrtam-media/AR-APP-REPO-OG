@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eb64ea9e7698944f48863b85f53b7ce0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/ThirdParty/Loom.cs
+  uploadId: 430890

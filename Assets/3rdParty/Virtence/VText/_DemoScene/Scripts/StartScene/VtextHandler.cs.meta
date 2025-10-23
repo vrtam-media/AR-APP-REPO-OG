@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0f9d28a9121fd304aa109f8415e61ced
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Scripts/StartScene/VtextHandler.cs
+  uploadId: 430890

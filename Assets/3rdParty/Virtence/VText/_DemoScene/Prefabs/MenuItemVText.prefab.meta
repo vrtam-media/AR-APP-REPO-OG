@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d316ef22b90600a40b8d8729e5eadb33
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Prefabs/MenuItemVText.prefab
+  uploadId: 430890

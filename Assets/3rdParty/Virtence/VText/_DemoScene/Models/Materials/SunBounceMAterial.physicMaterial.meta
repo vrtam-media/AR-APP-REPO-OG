@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc17ed30b8e76424c8403df07f64b5d2
+timeCreated: 1489416500
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Models/Materials/SunBounceMAterial.physicMaterial
+  uploadId: 430890

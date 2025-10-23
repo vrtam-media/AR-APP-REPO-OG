@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97d4c75ded267de4c8b3edbf0d2d8446
+timeCreated: 1489412191
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Models/Materials/body.mat
+  uploadId: 430890

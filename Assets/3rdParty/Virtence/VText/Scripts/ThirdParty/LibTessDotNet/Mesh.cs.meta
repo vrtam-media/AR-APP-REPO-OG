@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2587880dc30226d4b8163c7b516b2f29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/ThirdParty/LibTessDotNet/Mesh.cs
+  uploadId: 430890

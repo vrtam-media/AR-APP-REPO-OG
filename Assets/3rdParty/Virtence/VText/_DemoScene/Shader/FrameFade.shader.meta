@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06d39ceb89cbc974db4a805638b899f9
+timeCreated: 1489393548
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Shader/FrameFade.shader
+  uploadId: 430890

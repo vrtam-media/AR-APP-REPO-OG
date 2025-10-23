@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33c27ed40f6d54f4983386c2f4ca67de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/Utilities/StaticCoroutine.cs
+  uploadId: 430890

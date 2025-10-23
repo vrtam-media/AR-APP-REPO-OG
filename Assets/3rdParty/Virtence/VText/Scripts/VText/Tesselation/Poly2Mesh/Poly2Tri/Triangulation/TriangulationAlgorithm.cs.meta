@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 59fd8ac03f1dd423b80981a99f02b48f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/Tesselation/Poly2Mesh/Poly2Tri/Triangulation/TriangulationAlgorithm.cs
+  uploadId: 430890

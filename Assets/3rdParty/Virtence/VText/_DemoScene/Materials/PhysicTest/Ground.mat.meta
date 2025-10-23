@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbd582ae94e16634980e069a9d29ba5b
+timeCreated: 1489413348
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/PhysicTest/Ground.mat
+  uploadId: 430890

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3274403c02d057e458aee2b8c20da3ce
+timeCreated: 1489414004
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/PhysicTest/Ball.mat
+  uploadId: 430890

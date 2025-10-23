@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 015fab0e227ac43469b0cd46dda0233c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Scripts/SceneSelectionScreen/SceneSelectionController.cs
+  uploadId: 430890

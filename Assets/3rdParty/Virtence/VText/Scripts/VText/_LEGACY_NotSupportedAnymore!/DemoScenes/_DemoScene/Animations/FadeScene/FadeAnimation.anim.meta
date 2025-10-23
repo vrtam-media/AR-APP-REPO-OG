@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3869d34657ea4f647a31cbb286664417
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/_LEGACY_NotSupportedAnymore!/DemoScenes/_DemoScene/Animations/FadeScene/FadeAnimation.anim
+  uploadId: 430890

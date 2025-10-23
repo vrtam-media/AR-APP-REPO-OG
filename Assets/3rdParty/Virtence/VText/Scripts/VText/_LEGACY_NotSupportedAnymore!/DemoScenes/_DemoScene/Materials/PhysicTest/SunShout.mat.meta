@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59a56aa1bb371b748a440f2d84b2d875
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/VText/_LEGACY_NotSupportedAnymore!/DemoScenes/_DemoScene/Materials/PhysicTest/SunShout.mat
+  uploadId: 430890

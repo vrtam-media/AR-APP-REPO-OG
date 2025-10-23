@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8db34071830d5a44809308a2a2cb5c1
+timeCreated: 1487862698
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Models/Materials/top.mat
+  uploadId: 430890

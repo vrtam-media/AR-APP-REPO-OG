@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b213c49a264494b5d8dfdd547310e72c
+timeCreated: 1487255131
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Scripts/StartScene/UIController.cs
+  uploadId: 430890

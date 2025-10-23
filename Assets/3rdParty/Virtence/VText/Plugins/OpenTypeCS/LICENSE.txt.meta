@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b285027f893555a449b7ec0fa269e052
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Plugins/OpenTypeCS/LICENSE.txt
+  uploadId: 430890

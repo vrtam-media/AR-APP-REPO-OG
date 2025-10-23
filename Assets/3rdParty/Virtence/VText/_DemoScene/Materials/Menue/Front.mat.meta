@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e45cb511a2148b40a0ffca635782004
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Materials/Menue/Front.mat
+  uploadId: 430890

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ef1ba2b7a3688b94589e0ed427352639
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/Scripts/ThirdParty/LibTessDotNet/Tess.cs
+  uploadId: 430890

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 37aa02c55f7c5744c9c66ce227a580bf
+timeCreated: 1487255131
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173237
+  packageName: VText Pro
+  packageVersion: 1.2
+  assetPath: Assets/3rdParty/Virtence/VText/_DemoScene/Scripts/UV/UIController_UV.cs
+  uploadId: 430890
