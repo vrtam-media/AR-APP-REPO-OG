@@ -26,9 +26,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TEXT-Scene-5.unity
     guid: 665ae87ff8e31ac44a4fe6c14781442f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TEXT-Scene-6.unity
     guid: 6543cd62b88065f43ae3dc9ef01f57fe
+  - enabled: 1
+    path: Assets/Scenes/cube.unity
+    guid: 9966225c0dd64384f88d0821a2f7eee1
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
