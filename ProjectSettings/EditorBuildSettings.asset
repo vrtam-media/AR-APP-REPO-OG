@@ -9,29 +9,32 @@ EditorBuildSettings:
     path: Assets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
   - enabled: 0
-    path: Assets/Scenes/Environment Scene.unity
+    path: Assets/Scenes/test&other/Environment Scene.unity
     guid: 991257fe192accb4c93f97a3ff212137
   - enabled: 0
-    path: Assets/Scenes/AR-1.unity
+    path: Assets/Scenes/test&other/AR-1.unity
     guid: 6a2f5fc8e92659b4e9c0564405154238
   - enabled: 0
-    path: Assets/Scenes/AR-2.unity
+    path: Assets/Scenes/test&other/AR-2.unity
     guid: 9093b7336c34c244aa44801f73726df5
   - enabled: 0
-    path: Assets/Scenes/AR-3.unity
+    path: Assets/Scenes/test&other/AR-3.unity
     guid: 7c6f0fe60e93c2e47833f5023ae04968
   - enabled: 0
-    path: Assets/Scenes/TEXT-Scene-2.unity
+    path: Assets/Scenes/test&other/TEXT-Scene-2.unity
     guid: 34e74c00de0906041963417bb9ae0075
   - enabled: 0
-    path: Assets/Scenes/TEXT-Scene-5.unity
+    path: Assets/Scenes/test&other/TEXT-Scene-5.unity
     guid: 665ae87ff8e31ac44a4fe6c14781442f
   - enabled: 0
-    path: Assets/Scenes/TEXT-Scene-6.unity
+    path: Assets/Scenes/story-1/TEXT-Story-1.unity
     guid: 6543cd62b88065f43ae3dc9ef01f57fe
-  - enabled: 1
-    path: Assets/Scenes/cube.unity
+  - enabled: 0
+    path: Assets/Scenes/test&other/cube.unity
     guid: 9966225c0dd64384f88d0821a2f7eee1
+  - enabled: 1
+    path: Assets/Scenes/story-2/TEXT-Story-2-2.unity
+    guid: 893c026bbcfc34144b13c788e7f61ec9
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
